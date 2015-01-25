@@ -12,7 +12,7 @@
 ## list includes 1. put= To set the matrix that needs to be inverted.
 ## 2. find= To get the value of the matrix
 ## 3. putInverse= Sets the value of the inverse cache.
-## 4. findInverse= To get the value of Inverse cache.
+## 4. returnInverse= To get the value of Inverse cache.
 
 makeCacheMatrix <- function(x = matrix()) {
 
